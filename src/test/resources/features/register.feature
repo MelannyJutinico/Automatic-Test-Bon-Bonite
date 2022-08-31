@@ -8,7 +8,7 @@ Feature:Register module
     Given that the user is on the page
     When he enter his data
       | cedula         | email                         | password        |
-      | 99999999999999 | examplepruebaqasena@gmail.com | g.8uw69JywvUmM2 |
+      | 111111111111 | examplepruebaqasena@gmail.com | g.8uw69JywvUmM2 |
     Then the user will be logged in
 
   Scenario: Bad Registration

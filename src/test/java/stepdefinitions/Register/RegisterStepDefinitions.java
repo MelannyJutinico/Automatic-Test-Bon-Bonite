@@ -57,7 +57,7 @@ public class RegisterStepDefinitions {
     @Then("^the user will be logged in$")
     public void theUserWillBeLoggedIn() {
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(CompareHello.compare()
-                , Matchers.equalTo("Hola 99999999999999 (¿no eres 99999999999999? Cerrar sesión)")));
+                , Matchers.equalTo("Hola 111111111111 (¿no eres 111111111111? Cerrar sesión)")));
     }
 
 
