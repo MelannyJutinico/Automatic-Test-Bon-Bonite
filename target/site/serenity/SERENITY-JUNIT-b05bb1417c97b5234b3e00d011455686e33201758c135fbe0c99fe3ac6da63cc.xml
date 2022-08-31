@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login module" skipped="0" tests="3" time="109.0" timestamp="2022-08-31 02:14:59"><testcase name="Login Successful"/><testcase name="Bad login"/><testcase name="Dont exists user"/></testsuite>
